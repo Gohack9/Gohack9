@@ -1,7 +1,10 @@
 # Salut, moi c’est Rayan 👋
 
-<p align="right">
-  <img src="Assets/image(1).png" alt="Anime dev image" width="220">
+<p align="center">
+  <a href="https://rayanportfolio-ochre.vercel.app/" title="Portfolio de Rayan">
+    <img src="Assets/image(1).png" alt="Anime dev image" width="220">
+  </a>
+</p>
 
 Etudiant Epitech en MSc Pro, je prépare mon parcours Master et je cherche une alternance en administration réseaux/cyber ou en développement full‑stack. Toujours partant pour construire des systèmes fiables et sécurisés.
 
