@@ -1,6 +1,6 @@
 # Salut, moi c’est Rayan 👋
 <p aligns="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/Animated%20Cyber%20Punk%20Girl%20Coding.gif" alt="Anime dev image" width="220">
+  <img src="https://files.idyllic.app/files/static/2527432?width=384&optimizer=image" alt="Anime dev image" width="220">
 </p>
 
 Etudiant Epitech en MSc Pro, je prépare mon parcours Master et je cherche une alternance en administration réseaux/cyber ou en développement full‑stack. Toujours partant pour construire des systèmes fiables et sécurisés.
