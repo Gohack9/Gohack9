@@ -48,7 +48,7 @@ Active Directory, Microsoft 365, Docker
 
 ## Projets en cours
 - Labs réseau/cyber et automatisation autour de la sécurité et du déploiement
-- Projets full‑stack pour consolider l’architecture et la qualité de code
+- Petit projet de groupe actuellement disponible ici : [section-9.dazu.fr](https://section-9.dazu.fr/), une sorte de Discord à notre façon :)
 
 ## Open to work
 Si vous connaissez des opportunités en alternance pour mon Master (réseau/cyber ou full‑stack), contactez-moi : je suis disponible pour échanger en temps libre. Vous pouvez passer par GitHub, par mail ou via le formulaire de contact sur mon portfolio [rayanportfolio-ochre.vercel.app](https://rayanportfolio-ochre.vercel.app/).
